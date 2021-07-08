@@ -102,6 +102,7 @@
 							<configOptions>
 								<serializableModel>true</serializableModel>
 								<interfaceOnly>true</interfaceOnly>
+								<useBeanValidation>true</useBeanValidation>
 								<verbose>true</verbose>
 								<enablePostProcessFile>true</enablePostProcessFile>
 							</configOptions>
