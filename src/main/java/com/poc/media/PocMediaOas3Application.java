@@ -1,4 +1,4 @@
-package com.poc.media.poc_media_oas3;
+package com.poc.media;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

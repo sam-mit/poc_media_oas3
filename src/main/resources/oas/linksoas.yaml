@@ -3,7 +3,7 @@ info:
   version: 0.0.0
   title: Links example
 servers:
-  - http://localhost/
+  - url: http://localhost:8999
 paths:
   /users:
     post:
